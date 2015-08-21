@@ -1,0 +1,1 @@
+The game keeps track the pair of card symbol in a way that if user clicks and face up different cards it counts negative point and for correct pair it counts positive points. The game is my university assignment. I am doing it as open source project, cause it's fun to do it.
